@@ -1,1 +1,2 @@
-[FBAN/EMA;FBAV/358.0.0.52.78;FBBV/393096020;FBRV/0;FBPN/com.facebook.lite;FBLC/fr_FR;FBMF/Vodafone;FBBD/Vodafone;FBDV/Lava Stong 5G;FBSV/14;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+[FBAN/FB4A;FBAV/308.0.0.59.34;FBBV/577156756;FBRV/0;FBPN/com.facebook.katana;FBLC/fi_FI;FBMF/Samsung;FBBD/Samsung;FBDV/Tenco Spark 10C;FBSV/15;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+[FBAN/FB4A;FBAV/227.0.0.44.65;FBBV/705243824;FBRV/0;FBPN/com.facebook.katana;FBLC/hi_IN;FBMF/Samsung;FBBD/Samsung;FBDV/Lava Stong 5G;FBSV/11;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
