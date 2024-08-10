@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/465.0.0.60.83;FBBV/358614015;FBDM/{density=2.0,width=720,height=1436};FBLC/en_Qaag_US;FBRV/359080319;FBCR/Telenor;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/V2313A;FBSV/8.1.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/373.0.0.58.89;FBBV/456559568;FBRV/0;FBPN/com.facebook.katana;FBLC/hi_IN;FBMF/Jio;FBBD/Jio;FBDV/Lava Strom 5G;FBSV/14;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
