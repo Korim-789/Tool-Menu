@@ -1,3 +1,2 @@
-[FBAN/FB4A;FBAV/313.0.0.96.95;FBBV/697060871;FBRV/0;FBPN/com.facebook.katana;FBLC/ca_ES;FBMF/Samsung;FBBD/Samsung;FBDV/Infinix Zero X Neo;FBSV/14;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
-[FBAN/FB4A;FBAV/292.0.0.81.80;FBBV/984413468;FBRV/0;FBPN/com.facebook.katana;FBLC/vi_VN;FBMF/Samsung;FBBD/Samsung;FBDV/Infinix Smart 7;FBSV/14;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
-[FBAN/FB4A;FBAV/307.0.0.51.75;FBBV/486285695;FBRV/0;FBPN/com.facebook.katana;FBLC/en_GB;FBMF/Samsung;FBBD/Samsung;FBDV/Infinix Hot 40i;FBSV/14;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+[FBAN/FB4A;FBAV/419.0.0.35.10;FBBV/198932888;FBRV/0;FBPN/com.facebook.katana;FBLC/vi_VN;FBMF/Samsung;FBBD/Samsung;FBDV/Vivo Y200 GT;FBSV/14;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+[FBAN/FB4A;FBAV/107.0.0.87.83;FBBV/753784982;FBRV/0;FBPN/com.facebook.katana;FBLC/es_ES;FBMF/Samsung;FBBD/Samsung;FBDV/Vivo iQOO 9;FBSV/15;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
