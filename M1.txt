@@ -1,3 +1,2 @@
-[FBAN/FB4A;FBAV/292.0.0.50.69;FBBV/488795284;FBRV/0;FBPN/com.facebook.katana;FBLC/ca_ES;FBMF/Samsung;FBBD/Samsung;FBDV/Realme V25;FBSV/13;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
-[FBAN/FB4A;FBAV/169.0.0.18.85;FBBV/210825644;FBRV/0;FBPN/com.facebook.katana;FBLC/ne_NP;FBMF/Samsung;FBBD/Samsung;FBDV/Realme C67;FBSV/15;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
-[FBAN/FB4A;FBAV/267.0.0.50.33;FBBV/513684958;FBRV/0;FBPN/com.facebook.katana;FBLC/en_GB;FBMF/Samsung;FBBD/Samsung;FBDV/Realme Narzo 50i;FBSV/14;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+[FBAN/FB4A;FBAV/374.0.0.77.21;FBBV/722943304;FBRV/0;FBPN/com.facebook.katana;FBLC/fr_FR;FBMF/Samsung;FBBD/Samsung;FBDV/Infinix Note 40;FBSV/15;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+[FBAN/FB4A;FBAV/418.0.0.39.68;FBBV/877892990;FBRV/0;FBPN/com.facebook.katana;FBLC/ro_RO;FBMF/Samsung;FBBD/Samsung;FBDV/Infinix Zero 5;FBSV/15;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
