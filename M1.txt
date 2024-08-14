@@ -1,2 +1,1 @@
-[FBAN/FB4A;FBAV/419.0.0.35.10;FBBV/198932888;FBRV/0;FBPN/com.facebook.katana;FBLC/vi_VN;FBMF/Samsung;FBBD/Samsung;FBDV/Vivo Y200 GT;FBSV/14;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
-[FBAN/FB4A;FBAV/107.0.0.87.83;FBBV/753784982;FBRV/0;FBPN/com.facebook.katana;FBLC/es_ES;FBMF/Samsung;FBBD/Samsung;FBDV/Vivo iQOO 9;FBSV/15;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+[FBAN/FB4A;FBAV/127.0.0.15.99;FBBV/925793157;FBRV/0;FBPN/com.facebook.katana;FBLC/pt_BR;FBMF/Samsung;FBBD/Samsung;FBDV/Vivo iQOO 9;FBSV/15;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
