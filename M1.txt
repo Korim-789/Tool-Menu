@@ -1,3 +1,3 @@
-[FBAN/FB4A;FBAV/375.0.0.42.59;FBBV/144659195;FBRV/0;FBPN/com.facebook.katana;FBLC/pl_PL;FBMF/Samsung;FBBD/Samsung;FBDV/Infinix Zero 5G;FBSV/15;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
-[FBAN/FB4A;FBAV/428.0.0.25.98;FBBV/674244906;FBRV/0;FBPN/com.facebook.katana;FBLC/bs_BA;FBMF/Samsung;FBBD/Samsung;FBDV/Infinix Zero 8;FBSV/15;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
-[FBAN/FB4A;FBAV/153.0.0.12.14;FBBV/714307041;FBRV/0;FBPN/com.facebook.katana;FBLC/fr_CA;FBMF/Samsung;FBBD/Samsung;FBDV/Infinix Zero 5;FBSV/15;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+[FBAN/FB4A;FBAV/196.0.0.53.29;FBBV/868562057;FBRV/0;FBPN/com.facebook.katana;FBLC/hr_HR;FBMF/Airtel;FBBD/Airtel;FBDV/Infinix Zero 8;FBSV/15;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+[FBAN/FB4A;FBAV/186.0.0.72.93;FBBV/964533131;FBRV/0;FBPN/com.facebook.katana;FBLC/en_GB;FBMF/Airtel;FBBD/Airtel;FBDV/Infinix Zero 6;FBSV/15;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+[FBAN/FB4A;FBAV/207.0.0.29.89;FBBV/937192667;FBRV/0;FBPN/com.facebook.katana;FBLC/zh_CN;FBMF/Airtel;FBBD/Airtel;FBDV/Infinix Zero 8i;FBSV/15;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
