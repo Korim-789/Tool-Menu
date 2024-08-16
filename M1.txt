@@ -1,3 +1,5 @@
 [FBAN/FB4A;FBAV/119.0.0.61.46;FBBV/612858470;FBRV/0;FBPN/com.facebook.katana;FBLC/bn_IN;FBMF/Samsung;FBBD/Samsung;FBDV/Infinix Zero 30 5G;FBSV/15;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+
 [FBAN/FB4A;FBAV/377.0.0.16.65;FBBV/545245832;FBRV/0;FBPN/com.facebook.katana;FBLC/fi_FI;FBMF/Samsung;FBBD/Samsung;FBDV/Infinix Zero 20;FBSV/15;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+
 [FBAN/FB4A;FBAV/267.0.0.34.74;FBBV/356020360;FBRV/0;FBPN/com.facebook.katana;FBLC/th_TH;FBMF/Samsung;FBBD/Samsung;FBDV/Infinix Zero 20;FBSV/15;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
