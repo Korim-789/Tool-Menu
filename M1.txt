@@ -1,1 +1,2 @@
-[FBAN/FB4A;FBAV/441.0.0.48.43;FBBV/877176920;FBRV/0;FBPN/com.facebook.katana;FBLC/pl_PL;FBMF/Samsung;FBBD/Samsung;FBDV/Tecno Spark 10C;FBSV/15;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+[FBAN/FB4A;FBAV/376.0.0.23.85;FBBV/887362363;FBRV/0;FBPN/com.facebook.katana;FBLC/bg_BG;FBMF/Samsung;FBBD/Samsung;FBDV/Samsung Gelaxy M62;FBSV/6;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+[FBAN/FB4A;FBAV/401.0.0.17.19;FBBV/939107298;FBRV/0;FBPN/com.facebook.katana;FBLC/ko_KR;FBMF/Samsung;FBBD/Samsung;FBDV/Samsung Gelaxy M54;FBSV/11;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
