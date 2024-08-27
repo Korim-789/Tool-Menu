@@ -1,2 +1,2 @@
-[FBAN/FB4A;FBAV/204.0.0.46.23;FBBV/203322915;FBRV/0;FBPN/com.facebook.katana;FBLC/en_GB;FBMF/Samsung;FBBD/Samsung;FBDV/Samsung Galaxy M31;FBSV/15;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
-[FBAN/FB4A;FBAV/413.0.0.68.83;FBBV/399712516;FBRV/0;FBPN/com.facebook.katana;FBLC/ko_KR;FBMF/Samsung;FBBD/Samsung;FBDV/Samsung Galaxy M40;FBSV/14;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+[FBAN/FB4A;FBAV/337.0.0.78.81;FBBV/431981227;FBRV/0;FBPN/com.facebook.katana;FBLC/sr_RS;FBMF/Samsung;FBBD/Samsung;FBDV/Samsung Galaxy M30;FBSV/14;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+[FBAN/FB4A;FBAV/318.0.0.27.25;FBBV/185864808;FBRV/0;FBPN/com.facebook.katana;FBLC/pl_PL;FBMF/Samsung;FBBD/Samsung;FBDV/Samsung Galaxy M31;FBSV/15;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
