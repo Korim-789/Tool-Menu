@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/384.0.0.62.44;FBBV/856533589;FBRV/0;FBPN/com.facebook.katana;FBLC/pt_BR;FBMF/Bangalink_Airtel;FBBD/Bangalink_Airtel;FBDV/Samsung Galaxy M31;FBSV/15;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+
