@@ -1,2 +1,1 @@
-[FBAN/FB4A;FBAV/325.0.0.55.24;FBBV/269197348;FBRV/0;FBPN/com.facebook.katana;FBLC/fi_FI;FBMF/Samsung;FBBD/Samsung;FBDV/Infinix Zero 8;FBSV/15;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
-[FBAN/FB4A;FBAV/206.0.0.62.33;FBBV/596924104;FBRV/0;FBPN/com.facebook.katana;FBLC/sr_RS;FBMF/Samsung;FBBD/Samsung;FBDV/Infinix Zero 8;FBSV/14;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+
