@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/138.0.0.15.93;FBBV/455960092;FBRV/0;FBPN/com.facebook.katana;FBLC/mk_MK;FBMF/Samsung;FBBD/Samsung;FBDV/Samsung Galaxy Grand Prime;FBSV/15;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+[FBAN/FB4A;FBAV/416.0.0.27.36;FBBV/513827090;FBRV/0;FBPN/com.facebook.katana;FBLC/fr_CA;FBMF/Samsung;FBBD/Samsung;FBDV/Xiaomi Redmi Note 13;FBSV/15;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
