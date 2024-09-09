@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/235.0.0.81.17;FBBV/212952220;FBRV/0;FBPN/com.facebook.katana;FBLC/bn_IN;FBMF/Samsung;FBBD/Samsung;FBDV/Samsung Galaxy M40;FBSV/14;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+
