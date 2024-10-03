@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/263.0.0.18.81;FBBV/668487601;FBRV/0;FBPN/com.facebook.katana;FBLC/sr_RS;FBMF/Airtel;FBBD/Airtel;FBDV/Samsung Galaxy M62;FBSV/15;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+[FBAN/FB4A;FBAV/407.0.0.15.92;FBBV/468160713;FBRV/0;FBPN/com.facebook.katana;FBLC/ko_KR;FBMF/Samsung;FBBD/Samsung;FBDV/Samsung Galaxy M62;FBSV/15;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
