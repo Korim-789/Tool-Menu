@@ -1,1 +1,2 @@
-[FBAN/FB4A;FBAV/223.0.0.93.26;FBBV/852189584;FBRV/0;FBPN/com.facebook.katana;FBLC/fa_IR;FBMF/Samsung;FBBD/Samsung;FBDV/Samsung Galaxy Note 20;FBSV/15;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+[FBAN/FB4A;FBAV/312.0.0.60.67;FBBV/360628037;FBRV/0;FBPN/com.facebook.katana;FBLC/fr_FR;FBMF/Samsung;FBBD/Samsung;FBDV/Samsung Galaxy M54 5G;FBSV/15;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+[FBAN/FB4A;FBAV/237.0.0.79.18;FBBV/691235200;FBRV/0;FBPN/com.facebook.katana;FBLC/es_ES;FBMF/Samsung;FBBD/Samsung;FBDV/Samsung Galaxy M54 5G;FBSV/14;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
