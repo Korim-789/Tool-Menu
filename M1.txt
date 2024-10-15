@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/331.0.0.58.90;FBBV/422667944;FBRV/0;FBPN/com.facebook.katana;FBLC/ms_MY;FBMF/Samsung;FBBD/Samsung;FBDV/Xiaomi Redmi 11;FBSV/11;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+[FBAN/FB4A;FBAV/299.0.0.63.53;FBBV/594666331;FBRV/0;FBPN/com.facebook.katana;FBLC/vi_VN;FBMF/Jio;FBBD/Jio;FBDV/Lava Strom 5G;FBSV/5;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
